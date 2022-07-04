@@ -1,0 +1,31 @@
+Task 1 - comeplete 9:45
+Cat API
+Task 2 - complete by 10:30
+ 5 -min of eac room
+
+Dreamer:
+Search cat info by picture - reverse image Search
+Downloadable app on play and apple stores
+Each search yoou do, it saves it in a card (pokemon card)
+SOund effects, meows when you click dsearch button
+
+Realist:
+Similar to the todo list, each card is the quivalenet of a list item
+Add to collection button
+Free sound effects websites out there
+
+Crtitc:
+Reverse imafge search is dependant on api or other resources, which we won't have other access to
+SOund effects- strecth goal, bonus not required feature
+
+
+Actions: Main feature of website, if tuser likes cat info, they can clkick button to "Add to collection", and it creates a card of the cat on the wbepage
+
+
+
+
+Task 3 - complete by 3:15
+
+Retro -  complete by 3:30
+
+plan presnetation till 4:00pm
