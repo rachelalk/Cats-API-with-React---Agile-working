@@ -1,24 +1,18 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8028355&assignment_repo_type=AssignmentRepo)
 # React-athon
 
-## Task 1 - API Research (20 - 30 mins)
 
-Choose at least one API to fetch from in a full stack React app. This [list](https://apilist.fun) may help. Remember to read the API's documentation and send test requests from Postman to view the data you get back first before deciding it's suitable to use. You can always use the API list we used in the hackathon earlier in the course as well.
+For this hackathon we were tasked with using everything that we have learnt to build a React app.
+Our first job was to choose an API to use, this was trickier than it first sounded as we found that a lot of the APIs either didn't work properly or at all, or that they didn't have information that we felt like we could use.
 
-## Task 2 - Ideate and Plan (30 - 60 mins)
+Next, we were to ideate and plan, going through the full Disney ideation process, refining our MVP and deciding on stretch goals. We also broke down each task, ordered them and assigned timings, to help us organise and plan the day.
 
-- Once you choose an API and test it out, use Disney ideation to come up with an idea of what you want to build. Set a timer for each room (dreamer, realist, and critic).
-- Boil down what your MVP is and what then becomes stretch goals. Break down your idea into its component parts and prioritise your tasks. Use project management software like [Trello](https://trello.com/en) to organize your plan, breaking it down into tasks that you can then treat as tickets for each feature. Base each of these around a [user story](https://www.atlassian.com/agile/project-management/user-stories).
-- Create a component tree with state and behaviour for each component and at least low-fidelity wireframes for your design.
+After that, we started to build component trees, thinking about where we anticipated passing props and where states would be used. This was incredibly helpful and saved us a lot of time during the build.
 
-## Task 3 - Build your MVP
+Next, we started to build. We built a cat collector app, it displayed different breeds of cats, you could favourite and keep the cat in a small card at the bottom, move onto the next cat or reset your collection. We even had time to style our app.
 
-Build the simplest version of your app (just enough features to be useable). Make regular commits as you build, and practice branching off for each component and merging that branch in. Use the React hooks and tools we've looked at over the past weeks where appropriate.
+Finally, it was time to retro, we talked about what had gone well, what hadn't gone too well and what we would do next time and then planned and presented our app to the group.
 
-## Stretch Goals
+I learnt a lot during this build. I realised how much I have learnt through the course of the bootcamp and solidified my knowledge of props and states. This was also the first time we had been asked to go through the whole design process and build an app in only a day.
 
-Once your MVP is functioning and if you have time left, focus on what features you are going to build next - iterate through your planned stretch goals one by one. Again, make use of feature branching and atomic commits (committing often after each change).
+I am really pleased with how well we did and how much we got done.
 
-## Retro
-
-You'll be presenting your apps to each other, and each team member should be prepared to present about their app so an end of day wrap-up is a good idea. This is a good time to practice an [agile retrospective](https://www.atlassian.com/team-playbook/plays/retrospective) - leave time before presentations to discuss what you did well today, what you learned, what you might do differently next time, and actions you can take forward into your project next week.
